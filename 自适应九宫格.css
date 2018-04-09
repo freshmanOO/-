@@ -1,0 +1,22 @@
+.content{
+	width: 96%;
+	/*vw:viewport width
+	vh:viewport height*/
+	height: 96vw;
+	background-color: white;
+	align-self: center;
+}
+.content div{
+	margin: 1%;
+	width: 30%;
+	height: 30%;
+	background-color: orange;
+	float: left;
+	border-radius: 20%;
+	/*padding-left:31%;
+	padding-bottom: 31%;
+	margin:auto;
+	border-radius: 20%;
+	background: orange;
+	float:left;*/
+}
